@@ -2,4 +2,4 @@
 
 Et enkelt program for å validere (sjekke om er gyldig) fødselsnumre.
 
-Kompiler, kjør "Main" og skriv inn ønsket 11-sifret nummer du ønsker å sjekke!
+Kompiler java-filene, kjør "Main" og følg instruksene i terminal! Blant annet kan du skrive inn 11-sifret nummer du ønsker å sjekke hvorvidt er et gyldig fødselsnummer.
