@@ -1,6 +1,6 @@
 # Sjekk-av-f-dselsnumre
 
-Et enkelt program for å validere (sjekke om er gyldig) fødselsnumre.
+Et program for å validere (sjekke om er gyldig) fødselsnumre.
 
 Last ned og kompiler java-filene, kjør "Main" og følg instruksene i terminal!
 
